@@ -67,7 +67,14 @@ Creates new .war and .ear files
  
  
  首先下载了一个 JAVA RUNTIME
- 
- 
+
+
+
+
+把全部都打开，然后把里面的文件放在最外面，是cmd解压的一种方式
+
+
+Copy these two .jar files from the App directory into the
+C:\glassfish3\glassfish\domains\domain1\lib directory also:
 
 
